@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "335854281783",
+    "project_id": "vetconnect-3003a",
+    "storage_bucket": "vetconnect-3003a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335854281783:android:365a3788eeade9585b8bb2",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCKYMgJ8Tz-kqvW8dD0SoL-Q7FiuRlQOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335854281783:android:b1456b413ade4b0f5b8bb2",
+        "android_client_info": {
+          "package_name": "com.example.vetconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCKYMgJ8Tz-kqvW8dD0SoL-Q7FiuRlQOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335854281783:android:e180a085623b8e185b8bb2",
+        "android_client_info": {
+          "package_name": "com.example.vetconnectapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCKYMgJ8Tz-kqvW8dD0SoL-Q7FiuRlQOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
